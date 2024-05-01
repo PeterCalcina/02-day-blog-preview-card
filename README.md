@@ -21,18 +21,18 @@ Blog Preview Card es el segundo proyecto de 100 por haber, construido con HTML, 
 
 **-- Desktop --**
 
-![Captura](https://github.com/PeterCalcina/01-day-profile-card/blob/master/images/capturas/desktop.png)
+![Captura](https://github.com/PeterCalcina/02-day-blog-preview-card/blob/master/images/capturas/desktop.png)
 
 **-- Mobile --**
 
-![Captura](https://github.com/PeterCalcina/01-day-profile-card/blob/master/images/capturas/mobile.png)
+![Captura](https://github.com/PeterCalcina/02-day-blog-preview-card/blob/master/images/capturas/mobile.png)
 
 ### Enlaces
 
 Agrega los enlaces de la solución del proyecto y el repositorio.
 
 - [Proyecto](https://02-blogpreview-card.netlify.app/)
-- [Repositorio](https://github.com/PeterCalcina/01-day-profile-card.git)
+- [Repositorio](https://github.com/PeterCalcina/02-day-blog-preview-card.git)
 
 ## Flujo de trabajo
 
